@@ -14,7 +14,6 @@ export const SeoCustomFields: CustomFieldConfig[] = [
   {
     name: "seoDescription",
     type: "localeString",
-    length: 65535,
     label: [
       { languageCode: LanguageCode.en, value: "SEO Description" },
       { languageCode: LanguageCode.it, value: "Descrizione SEO" },
