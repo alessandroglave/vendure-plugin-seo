@@ -1,6 +1,6 @@
 {
   "name": "vendure-plugin-seo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vendure Plugin which adds SEO fields to Products and Collections",
   "author": "Alessandro Glave <alessandro.glave@gmail.com>",
   "repository": "https://github.com/alessandroglave/vendure-plugin-seo",
