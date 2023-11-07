@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+.idea
+.temp
+.vscode
+__data__
+dist
+generated/
+lib/
+node_modules
+tmp
